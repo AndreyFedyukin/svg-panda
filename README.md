@@ -1,6 +1,6 @@
 # svg_Panda
 
-##### Ссылка на макет https://andreyfedyukin.github.io/svg_Sprites/
+##### Ссылка на макет https://andreyfedyukin.github.io/svg_Panda/
 
 ---
 
